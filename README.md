@@ -2,7 +2,7 @@
 
 An interactive reference for agency trafficking teams: where Adform click and impression trackers are supported across walled-garden platforms, how to implement them, and where they aren't supported.
 
-**🌐 Live site:** `https://<your-username>.github.io/<repo-name>/`
+**🌐 Live site:** `(https://vitruvius-saelta.github.io/adform-adserver-tracking-matrix/)`
 
 ## What this covers
 
